@@ -8,3 +8,5 @@ Enjoy it pasters!
 
 
 Latest commit xxxxxxx on Jun 16, 2021 (last update from my private git)
+
+https://www.youtube.com/watch?v=9CK5OAdMNXg (old showcase, watch newer videos on my channel or just view code for features)
