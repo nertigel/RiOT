@@ -1,4 +1,4 @@
-### RiOT.lua
+### RiOT.lua (version 1.4.9.6)
 The forgotten successor of d0pamine.lua
 
 RiOT was based off d0pamine_base.lua(LUX styled WarMenu at its' time). There's no reason to why I'm leaking it other then to let this community rot in peace.
